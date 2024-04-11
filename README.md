@@ -11,6 +11,7 @@ To obtain the latest price of each symbol, use the endpoint /fapi/v1/ticker/pric
 The channel will receive data from the goroutines and display it on the screen. The final output should appear as follows:
 
 BTCUSDT 22000
+
 ETHUSDT 1500
 ...
 
